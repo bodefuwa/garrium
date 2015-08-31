@@ -4,8 +4,9 @@ Inspired by [Denny Britz's](https://raw.github.com/dennybritz/rails_startup_temp
 
 I decided to create garrium.
 
-```bash
-Garrium is a slang Nigerian high school (especially boarding school) students called garri, which is grain cassava. It's a common meal, and is usually the last remaining food item available as the semester draws to a close. ```
+> Garrium is a slang Nigerian high school (especially boarding school) students called garri, which is grain cassava. 
+> It's a common meal, and is usually the last remaining food item available as the semester draws to a close. 
+
 
 ## How to use 
 

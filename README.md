@@ -4,14 +4,11 @@ Inspired by [Denny Britz's](https://raw.github.com/dennybritz/rails_startup_temp
 
 I decided to create garrium.
 
-> Garrium is a slang Nigerian high school (especially boarding school) students called garri, which is grain cassava. 
-> It's a common meal, and is usually the last remaining food item available as the semester draws to a close. 
-
 
 ## How to use 
 
 ```bash
-rails new [your_app_name] -m https://raw.githubusercontent.com/bodefuwa/garrium/master/bootstrap.rb
+rails new [your_app_name] -m https://raw.githubusercontent.com/bodefuwa/garrium/master/garrium.rb
 ```
 
 ---
@@ -58,5 +55,5 @@ rails new [your_app_name] -m https://raw.githubusercontent.com/bodefuwa/garrium/
 yourChoice = %w[experiment extend enjoy]
 ```
 
-> Of course upon completing this small project, I saw so many other gems I could have added that would have provided more value. 
-> That's what makes  the rails community great I guess. On to v0.2
+> Garrium is a slang Nigerian high school (especially boarding school) students called garri, which is grain cassava. 
+> It's a common meal, and is usually the last remaining food item available as the semester draws to a close. 
